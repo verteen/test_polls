@@ -1,4 +1,4 @@
 # test_polls
 
 Доступные опросы:
-    [Сколько тебе лет?](../blob/master/polls/age/question.md)
+    [Сколько тебе лет?](polls/age/question.md)
